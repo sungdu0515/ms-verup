@@ -1,1 +1,1 @@
-9.0
+{ "m_General": { "ServerName": "", "WebAdr": "", "ChatAdr": "", "Notice": "", "Update": "", "Event": "" }, "m_Server": { "LoginAdr": "127.0.0.1", "LoginPort": 6969, "ConnectorPort": 8800, "MultiClient": false, "ConnectorVersion": "1.0.0", "ConnectorName": "접속기", "FileAdr": "http://127.0.0.1/", "isTokenStart": false, "isWZClient": false } }
